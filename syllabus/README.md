@@ -279,9 +279,11 @@ will be released around the last live session of the week and due approximately 
 <th></th><th>Topic</th><th>Release</th><th>Deadline</th>
 </tr>
 
+<!-- 
 <tr>
   <td>
   <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
+-->
   <!-- Assignment&nbsp;0 -->
 <!--  <td><strong>Course Set-up</strong>
   <ul>
