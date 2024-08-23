@@ -43,12 +43,13 @@ By the completion of this course, students will be able to:
 **Live Sessions**
 * Section 1: Monday 6:30 - 8:00pm PST (Paul Spiegelhalter)
 * Section 2: Tuesday 4:00 - 5:30pm PST (Natalie Ahn) 
+* Section 8: Tuesday 6:30 - 8:00pm PST (Jennifer Zhu)
 * Section 3: Wednesday 2:00 - 3:30pm PST (Amit Bhattacharyya)
 * Section 4: Wednesday 4:00 - 5:30pm PST (Jennifer Zhu) 
 * Section 5: Wednesday 4:00 - 5:30pm PST (Mike Tamir)
 * Section 6: Wednesday 6:30 - 8:00pm PST (Mike Tamir)
 * Section 7: Thursday 6:30 - 8:00pm PST (Mark Butler)
-* Section 8: Thursday 4:00 - 5:30pm PST (Jennifer Zhu)
+
 
 
 
@@ -348,8 +349,8 @@ will be released around the last live session of the week and due approximately 
   <li>Read: <a href="https://getpocket.com/explore/item/the-rise-and-fall-of-the-english-sentence" target="_blank">The Rise and Fall of the English Sentence</a>
   <li>Read: <a href="https://jalammar.github.io/illustrated-word2vec/" target="_blank">The Illustrated Word2Vec</a>
   <li><em>Skim:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
-  <li>Skim: <a href="http://www.nltk.org/book/ch01.html" target="_blank">NLTK book chapter 1 (python and basics)</a>
-  <li>Optional: <a href="http://www.nltk.org/book/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
+  <li><em>Skim:</em> <a href="http://www.nltk.org/book/ch01.html" target="_blank">NLTK book chapter 1 (python and basics)</a>
+  <li><em>Optional:</em> <a href="http://www.nltk.org/book/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
   <li><em>Optional:</em> <a href="http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2" target="_blank">The Interpreter (New Yorker)</a>
   <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
   </ul>
