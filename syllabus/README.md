@@ -63,7 +63,7 @@ By the completion of this course, students will be able to:
 * **Mark Butler**: Thursday at Noon PST
 * **Rachel Gao**: Thursday at 5pm PST 
 * **Amit Bhattacharyya**: Friday at 11am PST
-* **Jennifer Zhu**: Friday at 4pm PST
+* **Jennifer Zhu**: Wednesday at 6pm PST
 * **Courtney Mazzulla**: TBD
 * **Raymond Tang**: TBD
 
