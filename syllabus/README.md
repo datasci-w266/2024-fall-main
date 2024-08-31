@@ -58,8 +58,8 @@ By the completion of this course, students will be able to:
 * **Rajiv Nair**: Monday at 4pm PST
 * **Natalie Ahn**: Tuesday at 6pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
-* **Paul Spiegelhalter**: TBD
-* **Mike Tamir**: Wednesday immediately after the live session
+* **Paul Spiegelhalter**: Monday at 8pm PST
+* **Mike Tamir**: Wednesday at 5:30pm PST
 * **Mark Butler**: Thursday at Noon PST
 * **Rachel Gao**: Thursday at 5pm PST 
 * **Amit Bhattacharyya**: Friday at 11am PST
@@ -280,13 +280,13 @@ will be released around the last live session of the week and due approximately 
 <th></th><th>Topic</th><th>Release</th><th>Deadline</th>
 </tr>
 
-<!-- 
+
 <tr>
   <td>
   <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
--->
-  <!-- Assignment&nbsp;0 -->
-<!--  <td><strong>Course Set-up</strong>
+
+<!-- Assignment&nbsp;0 -->
+  <td><strong>Course Set-up</strong>
   <ul>
     <li>GitHub
     <li>Ed Discussion
@@ -294,7 +294,7 @@ will be released around the last live session of the week and due approximately 
   <td>Aug&nbsp;30</td>
   <td>Sep&nbsp;08</td>
 </tr> 
--->
+
 
 <tr>
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
