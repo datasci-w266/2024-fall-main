@@ -64,8 +64,8 @@ By the completion of this course, students will be able to:
 * **Rachel Gao**: Thursday at 5pm PST 
 * **Amit Bhattacharyya**: Friday at 11am PST
 * **Jennifer Zhu**: Wednesday at 6pm PST
-* **Courtney Mazzulla**: TBD
-* **Raymond Tang**: TBD
+* **Courtney Mazzulla**: Tuesday at 7pm PST
+* **Raymond Tang**: Monday at Noon PST
 
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
@@ -294,6 +294,18 @@ will be released around the last live session of the week and due approximately 
   <td>Aug&nbsp;30</td>
   <td>Sep&nbsp;08</td>
 </tr> 
+
+
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment&nbsp;1</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td>Sep&nbsp;06</td>
+  <td>Sep&nbsp;15</td>
+</tr>
+
 
 
 <tr>
