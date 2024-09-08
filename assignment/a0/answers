@@ -101,4 +101,5 @@ logistics_approach:
 
 # 15. "But I really wanted to say something more nuanced on the previous question!"
 #     Here's your chance!
-additional_logistics_comments: Put that text here!
+additional_logistics_comments: None
+
