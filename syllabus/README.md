@@ -273,7 +273,7 @@ We'll update the table below with assignments as they become available, as well 
 ### Deliverables
 
 Note:  we will update this table as we release assignments.  Each assignment
-will be released around the last live session of the week and due approximately 1 week later (for simple assignments) or 2 to 3 weeks later (for complex assignments).
+will be released after the last live session of the week (on Friday) and due approximately 1 week later (for simple assignments) or 2 to 3 weeks later (for complex assignments).
 
 <table>
 <tr>
