@@ -59,11 +59,11 @@ By the completion of this course, students will be able to:
 * **Natalie Ahn**: Tuesday at 6pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Paul Spiegelhalter**: Monday at 8pm PST
-* **Mike Tamir**: Wednesday at 5:30pm PST
+* **Mike Tamir**: Wednesday at 5:30pm PST and 
 * **Mark Butler**: Thursday at Noon PST
 * **Rachel Gao**: Thursday at 5pm PST 
 * **Amit Bhattacharyya**: Friday at 11am PST
-* **Jennifer Zhu**: Wednesday at 6pm PST
+* **Jennifer Zhu**: Wednesday at 6pm PST and Friday at 5pm PST
 * **Courtney Mazzulla**: Tuesday at 7pm PST
 * **Raymond Tang**: Monday at Noon PST
 
@@ -328,6 +328,17 @@ will be released after the last live session of the week (on Friday) and due app
   <td>Oct&nbsp;06</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Multiclass Classification
+    <li>Summarization
+	<li>Question Answering
+  </ul></td>
+  <td>Oct&nbsp;04</td>
+  <td>Oct&nbsp;20</td>
+</tr>
 
 
 <tr><!--- Project Reports -->
