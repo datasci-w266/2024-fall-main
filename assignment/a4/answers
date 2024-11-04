@@ -18,39 +18,33 @@
 # | Section (A): Show and Tell (5 points)  | 
 # ------------------------------------------------------------------
 
-# Question 1 (/1): Which parts of the CNN were fine-tuned during the image caption generation process?
+# Question 1 (/1): Which parts of the CNN were fine-tuned during the image caption generation process? 
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_a_1: 
- - The kernels within the CNN
+
  - The top feed forward layer of the CNN
- - All of the above
 
 # Question 2 (/1): What was the biggest concern when deciding how to train the model?
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_a_2: 
- - Training time
  - Overfitting
 
 # Question 3 (/1): How was the encoded image representation input into the decoder?
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_a_3: 
- - As an image vector at each time step
  - As the first word embedding input
 
 # Question 4 (/1): Which metric did the authors use to determine success?
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_a_4: 
  - BLEU
- - ROUGE
- - METEOR
- - BERTScore
+
 
 # Question 5 (/1): What beam width is equivalent to selecting the highest probability word in each decoding step?
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_a_5: 
- - 0
  - 1
- - infinite
+
 
 
 # ------------------------------------------------------------------
@@ -60,15 +54,13 @@ image_captioning_a_5:
 # Question 1 (/1): What is the model paying attention to?
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_b_1: 
- - The raw pixels
- - Multiple independently trained CNNs over an object classification task, each yielding an annotation
  - Vectors are extracted from a layer of the CNN with a receptive field (image region contributing to it) smaller than the full image
 
 # Question 2 (/1): What do the figures with highlight shading represent in Figures 2, 3 and 5?
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_b_2: 
  - The part of the image contributing to the word currently being decoded
- - The part of the image most contributing to the generated caption
+
 
 
 # ------------------------------------------------------------------
@@ -76,16 +68,16 @@ image_captioning_b_2:
 # ------------------------------------------------------------------
 
 # Question 1 (/2): What is the animal tag you selected?
-image_captioning_c_1: your answer
+image_captioning_c_1: dog
 
 # Question 2 (/2): What is the transportation tag you selected?
-image_captioning_c_2: your answer
+image_captioning_c_2: bench
 
 # Question 3 (/2): What is the probability associated with the most likely caption for image 1?
-image_captioning_c_3: 0.00000
+image_captioning_c_3: 0.08570
 
 # Question 4 (/2): What is the probability associated with the most likely caption for image 2?
-image_captioning_c_4: 0.00000
+image_captioning_c_4: 0.06413
 
 
 # ------------------------------------------------------------------
@@ -96,18 +88,15 @@ image_captioning_c_4: 0.00000
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_d_1: 
  - BLIP Caption
- - Other caption
- - Tied
 
 # Question 2 (/2): Does the BLIP caption win or do other captions win for image
 # (This question is multiple choice.  Delete all but the correct answer).
 image_captioning_d_2: 
  - BLIP Caption
- - Other caption
- - Tied
+
 
 # Question 3 (/2): What is the probability associated with the most likely caption for image 1?
-image_captioning_d_3: 0.00000
+image_captioning_d_3: 0.82300
 
 # Question 4 (/2): What is the probability associated with the most likely caption for image 2?
-image_captioning_d_4: 0.00000
+image_captioning_d_4: 0.80630
