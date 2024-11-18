@@ -156,7 +156,7 @@ This will be a final report in the style of a research paper. Aim for 4-6 pages 
 
 **Privacy:** If you don't want us to release your report publicly, please indicate that in the form below.
 
-Please submit your PDF (and your project's code) to your course GitHub if working alone or to a team repo if in a group and then complete [this form](https://forms.gl/not_yet).
+Please submit your PDF (and your project's code) to your course GitHub if working alone or to a team repo if in a group and then complete [this form](https://forms.gle/NbbPRu9XccaiNF6S9).
 
 We will be providing feedback to teams based on the rubric above.  This will take us some time (potentially up to a month after the deadline) and likely term grades will be released ahead of that feedback.
 
