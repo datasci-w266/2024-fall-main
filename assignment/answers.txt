@@ -59,26 +59,18 @@ past_hard_deadline_grade: 0
 general_questions:
   - Public post on Ed Discussion
 
-# 9. Which of the following are appropriate places to ask questions that cannot be made
-#    public (e.g. ones that contain assignment solutions?)
-# (Delete the incorrect answers.)
-private_questions:
-  - Private post on Ed Discussion addressed to all instructors so they can load balance
-  - Private post on Ed Discussion addressed to your live session instructor
-
-# 10. If you need something beyond the late day policy, what do you do?
+# 9. If you need something beyond the late day policy, what do you do?
 # (Delete the incorrect answers.)
 beyond_late_days:
   - Email the instructor mailing list, and cc student support as early as possible,
     even if you aren't completely sure you'll need anything.
 
-# 11. Where do you find out which async to watch each week?
+# 10. Where do you find out which async to watch each week?
 # (Delete the incorrect answers.)
 async_source:
   - The "Async to watch" column in the syllabus
-  - Watch "Unit x" while preparing for "Week x"'s live session.
 
-# 12. This course isn't known as a super easy class and I should be cautious about taking it
+# 11. This course isn't known as a super easy class and I should be cautious about taking it
 #     in conjunction with:
 # (Delete the incorrect answers.)
 competing_worries:
@@ -86,7 +78,7 @@ competing_worries:
   - Capstone
   - MIDS 261
 
-# 13. The grade distribution in this course has historically been
+# 12. The grade distribution in this course has historically been
 # approximately (despite most students working really hard!):
 # (Replace the 0s with the correct values.)
 grade_A: 25%
@@ -94,15 +86,11 @@ grade_A-: 15%
 grade_B+: 30%
 grade_B: 20%
 
-# 14. I would rather:
+# 13. I would rather:
 # (Keep the one you agree with most.. no right answer here, this is us experimenting with the course and appreciate your feedback!)
 logistics_approach:
   - Spend the first live session going over this in detail
 
-# 15. "But I really wanted to say something more nuanced on the previous question!"
+# 14. "But I really wanted to say something more nuanced on the previous question!"
 #     Here's your chance!
 additional_logistics_comments: None
-<<<<<<< HEAD
-
-=======
->>>>>>> 4395ddd9a7bc61f15a0132b289431cd60de67a80

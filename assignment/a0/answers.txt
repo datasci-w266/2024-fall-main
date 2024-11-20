@@ -102,7 +102,3 @@ logistics_approach:
 # 15. "But I really wanted to say something more nuanced on the previous question!"
 #     Here's your chance!
 additional_logistics_comments: None
-<<<<<<< HEAD
-
-=======
->>>>>>> 4395ddd9a7bc61f15a0132b289431cd60de67a80
