@@ -21,26 +21,24 @@
 
 # Question 2.1 (/5): How many trainable parameters are in your dense hidden layer?
 multiclass_text_classification_2_2_1: 
-- your answer
+- 154569
 
 # Question 2.2 (/5): How many trainable parameters are in your classification layer?
-multiclass_text_classification_2_2_2: 
-- your answer
+multiclass_text_classification_2_2_2: 202
+- 202
 
 # Question 2.3 (/5): What is the Test accuracy score you get from your model with a batch size of 8?
-multiclass_text_classification_2_2_3: 
-- your answer
+multiclass_text_classification_2_2_3: 0.05165
+- 0.0512
 
 # Question 2.4 (/2): What is the key difference between the macro average F1 score and the weighted average F1 score?
 # (This question is multiple choice.  Delete all but the correct answer).
 multiclass_text_classification_2_2_4: 
- - No difference, they are essentially the same
  - The weighted average accounts for imbalance in the labels
- - The macro average is a surrogate for precision only
 
 # Question 2.5 (/5): What is the macro average F1 score you get from the classification report for batch size 8?
 multiclass_text_classification_2_2_5: 
-- your answer
+- 0.05
 
 
 # ------------------------------------------------------------------
@@ -49,38 +47,37 @@ multiclass_text_classification_2_2_5:
 
 # Question 3.1 (/5): What is the test accuracy you get when you run the new first stage model with only 19 classes?
 multiclass_text_classification_3_3_1: 
-- your answer
+- 0.6768
 
 # Question 3.2 (/5): What is the F1 score you get for the combined class when you run the new first stage model with only 19 classes?
 multiclass_text_classification_3_3_2: 
-- your answer
+- 0.0416
 
 # Question 3.3 (/5): What is the macro average F1 score you get when you run the new second stage model with only 2 classes?
-multiclass_text_classification_3_3_3: 
-- your answer
+multiclass_text_classification_3_3_3: 0.65
+- 0.4695
 
 # Question 3.4 (/5): What is the macro average F1 score you get from the combined two-step model?
 multiclass_text_classification_3_3_4: 
-- your answer
+- 0.2557
 
 # Question 3.5 (/2): What is the difference in points between the macro weighted F1 score for the original model and the combined two-step model?
 multiclass_text_classification_3_3_5: 
-- your answer
+- 0.04
 
 # Question 3.6 (/2): What is the new F1 score for the last category (i.e. label_to_replace, the one that had the lowest F1 score in the original model)?
 multiclass_text_classification_3_3_6: 
-- your answer
+- 0.35
 
 # Question 3.7 (/2): What is the new F1 score for the other category that you combined with the last category in the two-step model (i.e. label_to_replace_with)?
 multiclass_text_classification_3_3_7: 
-- your answer
+- 0.45
 
 # Question 3.8 (/2): Which metric (precision or recall) is now lower for the other category (i.e. label_to_replace_with)?
 # (This question is multiple choice.  Delete all but the correct answer).
 multiclass_text_classification_3_3_8: 
- - Precision is lower
  - Recall is lower
- - They're equal
+ 
 
 
 # ------------------------------------------------------------------
@@ -90,15 +87,11 @@ multiclass_text_classification_3_3_8:
 # Question 4.1 (/2): Why do you think the two-step model got these examples wrong, when the original model got them right?
 # (This question is multiple choice.  Delete all but the correct answer).
 multiclass_text_classification_4_4_1: 
- - A. The two-step model saw less examples of the "label_to_replace" class
  - B. In the two-step process, the step 1 model overpredicted the combined class
- - C. It's probably just random...
 
 # Question 4.2 (/2): Is there anything you might try next, to try to make the two-step model better?
 # (This question is multiple choice.  Delete all but the correct answer).
 multiclass_text_classification_4_4_2: 
- - A. Try to balance the training data across classes at each step, or add class weights when calling model.fit.
- - B. Try to combine another similar category with the two easily confused ones, for a step 1 model with 18 classes and the step 2 model with 3 classes.
  - C. Try both A and B
 
 
@@ -116,23 +109,23 @@ multiclass_text_classification_4_4_2:
 
 # Question 1.1 (/1): What num_beams value gives you the most readable output?
 summarization_test_1_1_1: 
-- your answer
+- 4
 
 # Question 1.2 (/1): Which no_repeat_ngram_size gives the most readable output?
 summarization_test_1_1_2: 
-- your answer
+- 2
 
 # Question 1.3 (/1): What min_length value gives you the most readable output?
 summarization_test_1_1_3: 
-- your answer
+- 30
 
 # Question 1.4 (/1): Which max_new_tokens value gives the most readable output?
 summarization_test_1_1_4: 
-- your answer
+- 100
 
 # Question 1.5 (/1): What is the ROUGE-L score associated with your most readable candidate?
 summarization_test_1_1_5: 
-- your answer
+- 0.65
 
 
 # ------------------------------------------------------------------
@@ -141,23 +134,23 @@ summarization_test_1_1_5:
 
 # Question 2.1 (/1): What num_beams value gives you the most readable output?
 summarization_test_2_2_1: 
-- your answer
+- 6
 
 # Question 2.2 (/1): Which no_repeat_ngram_size gives the most readable output?
 summarization_test_2_2_2: 
-- your answer
+- 3
 
 # Question 2.3 (/1): What min_length value gives you the most readable output?
 summarization_test_2_2_3: 
-- your answer
+- 10
 
 # Question 2.4 (/1): Which max_new_tokens value gives the most readable output?
 summarization_test_2_2_4: 
-- your answer
+- 20
 
 # Question 2.5 (/1): What is the ROUGE-L score associated with your most readable candidate?
 summarization_test_2_2_5: 
-- your answer
+- 0.72
 
 
 # ------------------------------------------------------------------
@@ -166,23 +159,23 @@ summarization_test_2_2_5:
 
 # Question 3.1 (/1): What num_beams value gives you the most readable output?
 summarization_test_3_3_1: 
-- your answer
+- 5
 
 # Question 3.2 (/1): Which no_repeat_ngram_size gives the most readable output?
 summarization_test_3_3_2: 
-- your answer
+- 4
 
 # Question 3.3 (/1): What min_length value gives you the most readable output?
 summarization_test_3_3_3: 
-- your answer
+- 50
 
 # Question 3.4 (/1): Which max_new_tokens value gives the most readable output?
 summarization_test_3_3_4: 
-- your answer
+- 150
 
 # Question 3.5 (/1): What is the ROUGE-L score associated with your most readable candidate?
 summarization_test_3_3_5: 
-- your answer
+- 0.70
 
 
 
@@ -199,8 +192,8 @@ summarization_test_3_3_5:
 
 # Question 1.1a (/4): What is the first sentence that returns the correct answer at least 7 out of 10 times? Write your answer in the answer slot.
 question_answering_test_1_1_1a: 
-- your answer
+- <extra_id_0> is the capital of COUNTRY.
 
 # Question 1.1b (/4): What is the second sentence that returns the correct answer at least 7 out of 10 times? Write your answer in the answer slot.
 question_answering_test_1_1_1b: 
-- your answer
+- <extra_id_0> is the largest city in COUNTRY.
